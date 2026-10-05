@@ -4,6 +4,9 @@ Minimum working plumbing: a FastAPI + SQLAlchemy backend and a Vite + React fron
 wired together. No business logic — just enough to prove the stack boots end to end
 before you build anything on top of it.
 
+**If you were sent here for a take-home, read [PRD.md](./PRD.md) first** — it has what
+to build. This file just covers how to run what's already here.
+
 ## Run it
 
 **Backend** (http://localhost:8000):
